@@ -1,10 +1,11 @@
 /* Build out your custom CSS here */
 
+/*style container for the masthead*/
 header{
-
     display: inline-flex;
     height: 40px;
 }
+/*center, color and align the entire header text*/
 h1{
     background-color: #0065a4;
     color: white;
@@ -14,11 +15,8 @@ h1{
     align-items: center;
     font-family: 'Lato', sans-serif;
 
+/*Change font color for the word "the"*/
 }
 #the{
     color:#5fcff4;
-}
-header img{
-
-
 }
