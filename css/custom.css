@@ -1,0 +1,24 @@
+/* Build out your custom CSS here */
+
+header{
+
+    display: inline-flex;
+    height: 40px;
+}
+h1{
+    background-color: #0065a4;
+    color: white;
+    margin: 0px;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+
+}
+#the{
+    color:#5fcff4;
+}
+header img{
+
+
+}
